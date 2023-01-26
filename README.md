@@ -7,3 +7,5 @@ This repository primarily contains the code for implementation of our model.
 -   For all the related notes and files about our model, please refer to the file "iGEM建模.zip" in the link given above
 -   Summary of our work in iGEM 2022 may come in a few days, weeks, or months.... I'm not sure
 -   Enjoy! And feel free to propose any comment/feedback in Issues part (～￣▽￣)～
+
+（欢迎打星&Follow ✪ ω ✪
